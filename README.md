@@ -1,5 +1,5 @@
-### Hi there 👋
-### My name is Riane
+# Hi there 👋
+## My name is Riane
 ### I'm software engineeing student
 
 <!--
