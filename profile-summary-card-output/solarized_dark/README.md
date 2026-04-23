@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Riwne/Riwne/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
-```
-
-    
