@@ -1,4 +1,4 @@
-### Hello '³'
+### Hello 
 ### My name is Riane, I'm software engineering student.
 ##
 
